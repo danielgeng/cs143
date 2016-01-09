@@ -1,0 +1,21 @@
+body{
+	background-color:#F0FFFF;
+	font-family:Tahoma,sans-serif;
+}
+
+hr{
+	color:#000000;
+	background-color:#000000;
+	height:1px;
+	border:none;
+}
+
+.content{
+	margin-left:5px;
+	line-height:21px;
+}
+
+::-webkit-input-placeholder { font-style:italic; }
+::-moz-placeholder { font-style:italic; }
+:-ms-input-placeholder { font-style:italic; }
+input:-moz-placeholder { font-style:italic; }
